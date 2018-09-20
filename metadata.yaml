@@ -1,0 +1,36 @@
+_repo: The-Novel-on-the-Tram_53317
+_version: 0.0.1
+alternative_title: La novela en el tranvía. English
+contributor:
+  translator:
+    agent_name: Wooff, Michael
+    alias: Wooff, Michael John
+    gutenberg_agent_id: '41215'
+    url: http://www.gutenberg.org/2009/agents/41215
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2016-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madrid (Spain) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- Translations into English'
+- GITenberg
+title: The Novel on the Tram
+url: http://www.gutenberg.org/ebooks/53317
