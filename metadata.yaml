@@ -7,6 +7,9 @@ contributor:
     alias: Wooff, Michael John
     gutenberg_agent_id: '41215'
     url: http://www.gutenberg.org/2009/agents/41215
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3821
     wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53317#The-Novel-on-the-Tram
 gutenberg_issued: '2016-10-18'
 gutenberg_type: Text
 identifiers:
